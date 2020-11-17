@@ -18,7 +18,7 @@ UI:
 
     With a simple UI powerd with TK
     
-    ![image](https://github.com/hymmnos1224/SuperChat_Recorder/blob/main/UI%20sample.png)
+    ![image](http://github.comhymmnos1224/SuperChat_Recorder/raw/master/UI%20sample.png)
     
 
 # Safe Guarantee
