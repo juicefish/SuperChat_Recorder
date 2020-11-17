@@ -52,9 +52,13 @@ A better UI.
 
 Code Refactoring for better adding function.
 
-***This is the second time I use python, bsaiclly just learning and coding same time for several hours, so there might be still many bugs.
-***突然の出来心だから、五時間ぐらいで勉強しながら作ったものので、多分まだバグがいっぱい残ってる.
-***没怎么用过python, 心血来潮用一下午边学边做的, 可能还有很多bug.
+**This is the second time I use python, bsaiclly just learning and coding same time for several hours, so there might be still many bugs.
+
+
+**突然の出来心だから、五時間ぐらいで勉強しながら作ったものので、多分まだバグがいっぱい残ってる.
+
+
+**没怎么用过python, 心血来潮用一下午边学边做的, 可能还有很多bug.
 
 # License
 MIT
