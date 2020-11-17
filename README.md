@@ -17,7 +17,9 @@ Super chat extraction:
 UI:
 
     With a simple UI powerd with TK
-    https://github.com/hymmnos1224/SuperChat_Recorder/blob/main/UI%20sample.png
+    
+    ![image](https://github.com/hymmnos1224/SuperChat_Recorder/blob/main/UI%20sample.png)
+    
 
 # Safe Guarantee
 This is no any kind of trick to collect any kind of personal information. Except the extraction part, all the process is done at local, making sure there is no Privacy and Cyber Security problem.
